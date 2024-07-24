@@ -1,0 +1,17 @@
+.g-cards {
+  color: #ffffff;
+  position: relative;
+  margin: 20px;
+}
+.person-name {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
