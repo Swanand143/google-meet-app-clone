@@ -1,6 +1,6 @@
 import "../../component/Google-Cards/g-card.css";
 
-function Cards({ Image, Name }) {
+function GCards({ Image, Name }) {
   return (
     <>
       <div className="g-cards">
@@ -11,4 +11,4 @@ function Cards({ Image, Name }) {
   );
 }
 
-export default Cards;
+export default GCards;

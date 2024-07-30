@@ -2,6 +2,9 @@
   color: #ffffff;
   position: relative;
   margin: 20px;
+  width: 400px;
+
+
 }
 .person-name {
   position: absolute;
@@ -11,7 +14,9 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 .image {
-  height: 200px;
-  width: 300px;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
   border-radius: 10px;
 }
+
